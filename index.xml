@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shweta Bhogale</title>
+    <link>shwetabhogale.github.io/</link>
+      <atom:link href="shwetabhogale.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shweta Bhogale</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/shwetabhogale.github.io/media/icon_hu84693500ed48247286f381c47053ab6c_20997_512x512_fill_lanczos_center_3.png</url>
+      <title>Shweta Bhogale</title>
+      <link>shwetabhogale.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>shwetabhogale.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>shwetabhogale.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
